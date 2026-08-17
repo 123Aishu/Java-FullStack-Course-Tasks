@@ -140,7 +140,7 @@ if (reg_phone == user_phone) {
         System.out.println("\nVerification and Validation is Successful");	
 		System.out.println("Enter your Payment Method: ");
 		System.out.println("----------------------------------------");
-		System.out.println("1.Phonepay\n2.GPay\n");
+		System.out.println("1.Gpay\n2.Phone Pay\n");
 		System.out.print("enter a payment method: ");
 		int pay=sc.nextInt();
 		switch(pay){
